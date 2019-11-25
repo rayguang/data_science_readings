@@ -16,3 +16,9 @@
 ## Performance Measurement
 ### Performance Metrics
 [Beyond the ROC AUC: toward better performance metrics](https://medium.com/bcggamma/beyond-the-roc-auc-toward-defining-better-performance-metrics-b11f5d35adda)
+
+
+
+## Blog
+### Company Blog
+[Uber Engineering Blog](https://eng.uber.com/)

@@ -6,6 +6,9 @@
 
 [WoE Implementation and Example on Medium](https://medium.com/@sundarstyles89/weight-of-evidence-and-information-value-using-python-6f05072e83eb)
 
+### Courses
+[Udemy course on feature engineering](https://www.udemy.com/course/feature-engineering-for-machine-learning/)
+
 
 
 

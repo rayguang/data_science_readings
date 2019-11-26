@@ -17,6 +17,9 @@
 ### SVM
 [SVM Complexity Explanation on SO](https://datascience.stackexchange.com/questions/989/svm-using-scikit-learn-runs-endlessly-and-never-completes-execution)
 
+### XGBoosting Tree
+[Official XGBOOST Tutorials](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
+
 ## Sklearn 
 ###
 [Sklearn Official Guide](https://scikit-learn.org/stable/user_guide.html)

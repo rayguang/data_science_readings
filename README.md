@@ -28,3 +28,6 @@
 ## Blog
 ### Company Blog
 [Uber Engineering Blog](https://eng.uber.com/)
+
+## Miscellaneous
+[100 Days of ML Cod](https://github.com/Avik-Jain/100-Days-Of-ML-Code)

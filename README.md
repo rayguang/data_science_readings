@@ -20,11 +20,16 @@
 ## Sklearn 
 ###
 [Sklearn Official Guide](https://scikit-learn.org/stable/user_guide.html)
+
 ### Pipeline
 [Zac Stewart very first article on pipeline: Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
 
 [Sklearn official pipeline API](https://scikit-learn.org/stable/modules/compose.html)
 
+[Difference between fit() and fit_transform()](
+https://datascience.stackexchange.com/questions/12321/difference-between-fit-and-fit-transform-in-scikit-learn-models)
+
+[A deep dive into sklearn pipelines](https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines)
 
 ## Performance Measurement
 ### Performance Metrics

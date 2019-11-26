@@ -36,5 +36,6 @@
 ### Company Blog
 [Uber Engineering Blog](https://eng.uber.com/)
 
-## Miscellaneous
+## Github
 [100 Days of ML Cod](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)

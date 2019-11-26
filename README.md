@@ -10,6 +10,9 @@
 [Udemy course on feature engineering](https://www.udemy.com/course/feature-engineering-for-machine-learning/)
 
 
+## Algorithm
+### KNN
+[KNN Complexity Explanation on StackOverflow](https://stats.stackexchange.com/questions/219655/k-nn-computational-complexity)
 
 
 ## Sklearn 

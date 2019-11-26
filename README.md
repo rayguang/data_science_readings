@@ -39,6 +39,8 @@ https://datascience.stackexchange.com/questions/12321/difference-between-fit-and
 ### Performance Metrics
 [Beyond the ROC AUC: toward better performance metrics](https://medium.com/bcggamma/beyond-the-roc-auc-toward-defining-better-performance-metrics-b11f5d35adda)
 
+[Accuracy, Precision and Recall](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
+
 [F-score](https://deepai.org/machine-learning-glossary-and-terms/f-score)
 
 [Precision](https://deepai.org/machine-learning-glossary-and-terms/precision-and-recall)

@@ -35,6 +35,10 @@ https://datascience.stackexchange.com/questions/12321/difference-between-fit-and
 ###
 [Neupy HPS Optimization for Neural Networks (recommended)](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
 
+[Bayesian Optimization HPS](https://medium.com/vantageai/bringing-back-the-time-spent-on-hyperparameter-tuning-with-bayesian-optimisation-2e21a3198afb)
+
+[Conceptual Explanation on Bayesian Optimization HPS](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
+
 [Automated Machine Learning HPS Tuning](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
 
 [Fine Tune LighGBM](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)

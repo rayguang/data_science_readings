@@ -39,3 +39,4 @@
 ## Github
 [100 Days of ML Cod](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science/blob/master/README.md)

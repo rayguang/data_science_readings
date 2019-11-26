@@ -1,7 +1,8 @@
 ## Feature Engineering
 ### Categorical
 [WoE and IV](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)
-
+[WoE and IV on Kaggle](https://www.kaggle.com/pavansanagapati/weight-of-evidence-woe-information-value-iv)
+[WoE Implementation and Example on Medium](https://medium.com/@sundarstyles89/weight-of-evidence-and-information-value-using-python-6f05072e83eb)
 
 
 

@@ -14,6 +14,8 @@
 ### KNN
 [KNN Complexity Explanation on StackOverflow](https://stats.stackexchange.com/questions/219655/k-nn-computational-complexity)
 
+### SVM
+[SVM Complexity Explanation on SO](https://datascience.stackexchange.com/questions/989/svm-using-scikit-learn-runs-endlessly-and-never-completes-execution)
 
 ## Sklearn 
 ###

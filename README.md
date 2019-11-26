@@ -31,10 +31,17 @@ https://datascience.stackexchange.com/questions/12321/difference-between-fit-and
 
 [A deep dive into sklearn pipelines](https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines)
 
+## Hyperparameter Search
+###
+[Fine Tune LighGBM](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
+
 ## Performance Measurement
 ### Performance Metrics
 [Beyond the ROC AUC: toward better performance metrics](https://medium.com/bcggamma/beyond-the-roc-auc-toward-defining-better-performance-metrics-b11f5d35adda)
 
+[F-score](https://deepai.org/machine-learning-glossary-and-terms/f-score)
+
+[Precision](https://deepai.org/machine-learning-glossary-and-terms/precision-and-recall)
 
 ## Serving
 [Tencent Serving BERT in Production with Tensorflow](http://hanxiao.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/)

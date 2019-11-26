@@ -33,6 +33,7 @@ https://datascience.stackexchange.com/questions/12321/difference-between-fit-and
 
 ## Hyperparameter Search
 ###
+[Automated Machine Learning HPS Tuning](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
 [Fine Tune LighGBM](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
 
 ## Performance Measurement

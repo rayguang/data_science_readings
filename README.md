@@ -33,7 +33,10 @@ https://datascience.stackexchange.com/questions/12321/difference-between-fit-and
 
 ## Hyperparameter Search
 ###
+[Neupy HPS Optimization for Neural Networks (recommended)](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
+
 [Automated Machine Learning HPS Tuning](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
+
 [Fine Tune LighGBM](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
 
 ## Performance Measurement

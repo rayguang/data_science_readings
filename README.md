@@ -24,6 +24,8 @@
 [Beyond the ROC AUC: toward better performance metrics](https://medium.com/bcggamma/beyond-the-roc-auc-toward-defining-better-performance-metrics-b11f5d35adda)
 
 
+## Serving
+[Tencent Serving BERT in Production with Tensorflow](http://hanxiao.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/)
 
 ## Blog
 ### Company Blog

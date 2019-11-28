@@ -65,6 +65,9 @@ https://datascience.stackexchange.com/questions/12321/difference-between-fit-and
 ### Company Blog
 [Uber Engineering Blog](https://eng.uber.com/)
 
+## Courses
+[Fast.ai](https://www.fast.ai/topics/)
+
 ## Github
 [100 Days of ML Cod](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)

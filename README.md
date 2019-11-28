@@ -6,6 +6,8 @@
 
 [WoE Implementation and Example on Medium](https://medium.com/@sundarstyles89/weight-of-evidence-and-information-value-using-python-6f05072e83eb)
 
+[Medium: Entity Embedding and Its Application](https://towardsdatascience.com/understanding-entity-embeddings-and-its-application-69e37ae1501d)
+
 ### Courses
 [Udemy course on feature engineering](https://www.udemy.com/course/feature-engineering-for-machine-learning/)
 

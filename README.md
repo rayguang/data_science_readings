@@ -64,6 +64,7 @@ https://datascience.stackexchange.com/questions/12321/difference-between-fit-and
 ## Blog
 ### Company Blog
 [Uber Engineering Blog](https://eng.uber.com/)
+[Best AI Blogs](https://medium.com/@alexrachnog/ultimate-following-list-to-keep-updated-in-artificial-intelligence-32776ffcd079)
 
 ## Courses
 [Fast.ai](https://www.fast.ai/topics/)

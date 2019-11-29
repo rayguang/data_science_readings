@@ -1,3 +1,10 @@
+## System
+[Memory Usage on Sparse](https://stackoverflow.com/questions/43979559/how-are-sparse-matrices-affecting-memory-usage)
+
+## Data Structure
+### Scipy
+[Sparse Matrices for ML](https://machinelearningmastery.com/sparse-matrices-for-machine-learning/)
+
 ## Feature Engineering
 ### Categorical
 [WoE and IV](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)

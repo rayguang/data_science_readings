@@ -65,6 +65,11 @@ https://datascience.stackexchange.com/questions/12321/difference-between-fit-and
 
 [Precision](https://deepai.org/machine-learning-glossary-and-terms/precision-and-recall)
 
+## Serialization
+[Serialize json](https://cmry.github.io/notes/serialize)
+
+[Json to/from pickle](https://jsonpickle.github.io/)
+
 ## Serving
 [Tencent Serving BERT in Production with Tensorflow](http://hanxiao.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/)
 

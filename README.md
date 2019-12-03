@@ -72,6 +72,10 @@ https://datascience.stackexchange.com/questions/12321/difference-between-fit-and
 
 [Json to/from pickle](https://jsonpickle.github.io/)
 
+[Reading Pickle Data in Go](http://www.hydrogen18.com/blog/reading-pickled-data-in-go.html)
+
+[StaleCucumber: A Reader and Writer for Pickle in Go](https://github.com/hydrogen18/stalecucumber)
+
 ## Serving
 [Tencent Serving BERT in Production with Tensorflow](http://hanxiao.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/)
 

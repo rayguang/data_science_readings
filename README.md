@@ -38,6 +38,8 @@
 
 [Sklearn official pipeline API](https://scikit-learn.org/stable/modules/compose.html)
 
+[Sklearn serialize models load/restore JSON](https://stackabuse.com/scikit-learn-save-and-restore-models/)
+
 [Difference between fit() and fit_transform()](
 https://datascience.stackexchange.com/questions/12321/difference-between-fit-and-fit-transform-in-scikit-learn-models)
 

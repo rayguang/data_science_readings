@@ -68,6 +68,8 @@ https://datascience.stackexchange.com/questions/12321/difference-between-fit-and
 [Precision](https://deepai.org/machine-learning-glossary-and-terms/precision-and-recall)
 
 ## Serialization
+[Sklearn port to Go: comments on Pickle to Go serialization](https://github.com/pa-m/sklearn/issues/11)
+
 [Serialize json](https://cmry.github.io/notes/serialize)
 
 [Json to/from pickle](https://jsonpickle.github.io/)

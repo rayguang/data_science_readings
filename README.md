@@ -15,6 +15,8 @@
 
 [Medium: Entity Embedding and Its Application](https://towardsdatascience.com/understanding-entity-embeddings-and-its-application-69e37ae1501d)
 
+[ListenData: Weight of Evidence and Information](https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html)
+
 ### Courses
 [Udemy course on feature engineering](https://www.udemy.com/course/feature-engineering-for-machine-learning/)
 

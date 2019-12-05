@@ -4,6 +4,7 @@
 ## Data Structure
 ### Scipy
 [Sparse Matrices for ML](https://machinelearningmastery.com/sparse-matrices-for-machine-learning/)
+[Rule of Thumb for Sparse and Dense Matrix Storage](https://scicomp.stackexchange.com/questions/30203/rule-of-thumb-for-sparse-vs-dense-matrix-storage)
 
 ## Feature Engineering
 ### Categorical

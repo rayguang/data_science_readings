@@ -33,6 +33,7 @@
 
 ### RandomForest
 [When to Avoid Random Forest](https://stats.stackexchange.com/questions/112148/when-to-avoid-random-forest)
+[NIPS When do RFC Fails](https://papers.nips.cc/paper/7562-when-do-random-forests-fail.pdf)
 
 ## Sklearn 
 ###

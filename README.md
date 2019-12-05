@@ -31,6 +31,9 @@
 ### XGBoosting Tree
 [Official XGBOOST Tutorials](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
 
+### RandomForest
+[When to Avoid Random Forest](https://stats.stackexchange.com/questions/112148/when-to-avoid-random-forest)
+
 ## Sklearn 
 ###
 [Sklearn Official Guide](https://scikit-learn.org/stable/user_guide.html)

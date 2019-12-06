@@ -12,7 +12,7 @@
 
 ## Feature Engineering
 ### Categorical
-[WoE and IV](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)
+[Stitchfix Post on WoE and IV](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)
 
 [WoE and IV on Kaggle](https://www.kaggle.com/pavansanagapati/weight-of-evidence-woe-information-value-iv)
 

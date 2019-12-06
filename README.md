@@ -1,6 +1,10 @@
 ## System
 [Memory Usage on Sparse](https://stackoverflow.com/questions/43979559/how-are-sparse-matrices-affecting-memory-usage)
 
+[Pandas Memory Big Data](https://www.dataquest.io/blog/pandas-big-data/)
+
+[Why Python Is Slow](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
+
 ## Data Structure
 ### Scipy
 [Sparse Matrices for ML](https://machinelearningmastery.com/sparse-matrices-for-machine-learning/)

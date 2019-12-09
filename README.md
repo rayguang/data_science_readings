@@ -36,6 +36,10 @@
 ### XGBoosting Tree
 [Official XGBOOST Tutorials](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
 
+[Quora: Adaboost vs XGboost](https://www.quora.com/What-is-the-difference-between-gradient-boosting-and-adaboost)
+Adaboost: a voting machine, generate a set of weak learners and adjust the learners weight 
+XGboost: a gradient optimization, start with a weak learner and learn from the previous learning to make the learner stronger.
+
 ### RandomForest
 [When to Avoid Random Forest](https://stats.stackexchange.com/questions/112148/when-to-avoid-random-forest)
 [NIPS When do RFC Fails](https://papers.nips.cc/paper/7562-when-do-random-forests-fail.pdf)

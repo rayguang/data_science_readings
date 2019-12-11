@@ -18,6 +18,8 @@
 
 [WoE Implementation and Example on Medium](https://medium.com/@sundarstyles89/weight-of-evidence-and-information-value-using-python-6f05072e83eb)
 
+[Entity Embedding Original Paper from Cheng Guo](https://arxiv.org/pdf/1604.06737.pdf)
+
 [Medium: Entity Embedding and Its Application](https://towardsdatascience.com/understanding-entity-embeddings-and-its-application-69e37ae1501d)
 
 [ListenData: Weight of Evidence and Information](https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html)

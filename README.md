@@ -49,6 +49,9 @@ XGboost: a gradient optimization, start with a weak learner and learn from the p
 [When to Avoid Random Forest](https://stats.stackexchange.com/questions/112148/when-to-avoid-random-forest)
 [NIPS When do RFC Fails](https://papers.nips.cc/paper/7562-when-do-random-forests-fail.pdf)
 
+## Deep Learning
+[Efficient DNN from Vivienne Sze MIT] (https://slideslive.com/38921492/efficient-processing-of-deep-neural-network-from-algorithms-to-hardware-architectures)
+
 ## Sklearn 
 ###
 [Sklearn Official Guide](https://scikit-learn.org/stable/user_guide.html)

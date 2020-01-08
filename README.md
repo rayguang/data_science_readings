@@ -57,6 +57,8 @@ XGboost: a gradient optimization, start with a weak learner and learn from the p
 [Sklearn Official Guide](https://scikit-learn.org/stable/user_guide.html)
 
 ### Pipeline
+[Neuraxio: what is wrong with scikit-learn pipeline](https://www.neuraxio.com/en/blog/scikit-learn/2020/01/03/what-is-wrong-with-scikit-learn.html)
+
 [Zac Stewart very first article on pipeline: Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
 
 [Sklearn official pipeline API](https://scikit-learn.org/stable/modules/compose.html)

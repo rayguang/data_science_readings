@@ -52,6 +52,9 @@ XGboost: a gradient optimization, start with a weak learner and learn from the p
 ## Deep Learning
 [Efficient DNN from Vivienne Sze MIT](https://slideslive.com/38921492/efficient-processing-of-deep-neural-network-from-algorithms-to-hardware-architectures)
 
+## Numpy
+[Numpy axis] (https://www.sharpsightlabs.com/blog/numpy-axes-explained/)
+
 ## Sklearn 
 ###
 [Sklearn Official Guide](https://scikit-learn.org/stable/user_guide.html)
